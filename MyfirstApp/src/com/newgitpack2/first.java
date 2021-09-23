@@ -4,5 +4,6 @@ public class first {
 	public void show()
 	 {
 		 System.out.println("All is well");
+		 System.out.println("Hello");
 	 }
 }
